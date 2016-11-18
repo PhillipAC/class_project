@@ -16,7 +16,7 @@ different basic webdesign ideas. This is not a finished project.
 3. Add CSS
 4. Create pages/about.html using index.html as a template
 5. Link pages
-6. Create resources/css/main.css replacing <style> with a call to the file
+6. Create resources/css/main.css replacing \<style\> with a call to the file
 7. Create pages/contact.html using index.html as a template
 8. Add image to resources/images
 9. Display image on index.html
