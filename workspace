@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <Project name="class_website">
+    <Project name="Website">
         <Folder name="pages">
             <File name="pages\about.html" />
         </Folder>
@@ -7,6 +7,7 @@
             <Folder name="css">
                 <File name="resources\css\main.css" />
             </Folder>
+            <Folder name="images" />
         </Folder>
         <File name="index.html" />
         <File name="index_old.html" />
