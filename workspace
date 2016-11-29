@@ -2,12 +2,15 @@
     <Project name="Website">
         <Folder name="pages">
             <File name="pages\about.html" />
+            <File name="pages\contact.html" />
         </Folder>
         <Folder name="resources">
             <Folder name="css">
                 <File name="resources\css\main.css" />
             </Folder>
-            <Folder name="images" />
+            <Folder name="images">
+                <File name="resources\images\christmas.png" />
+            </Folder>
         </Folder>
         <File name="index.html" />
         <File name="index_old.html" />
