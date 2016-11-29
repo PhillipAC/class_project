@@ -19,7 +19,7 @@ different basic webdesign ideas. This is not a finished project.
 6. Create resources/css/main.css replacing \<style\> with a call to the file
 7. Create pages/contact.html using index.html as a template
 8. Add image to resources/images
-9. Display image on index.html
+9. Display image on pages/contact.html
 10. Add a footer section to all pages that links to school site
 11. Publish to github pages
 12. Share links
